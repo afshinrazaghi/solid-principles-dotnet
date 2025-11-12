@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7DVvntZsx2A=",
+  "success": true,
+  "projectFilePath": "D:\\WorkArea\\Solid\\solid-principles-dotnet\\solid-principles-dotnet\\solid-principles-dotnet\\solid-principles-dotnet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Afshin\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.10\\microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "C:\\Users\\Afshin\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
