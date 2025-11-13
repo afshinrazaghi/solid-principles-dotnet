@@ -1,14 +1,17 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net9.0</TargetFramework>
-    <Nullable>enable</Nullable>
-    <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>solid_principles_dotnet</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.10" />
+    <Folder Include="SolidPrinciples\D %28Dependency Inversion%29\" />
+    <Folder Include="SolidPrinciples\I %28Interface Segregation%29\" />
+    <Folder Include="SolidPrinciples\L %28Liskov-Substitution%29\" />
+    <Folder Include="SolidPrinciples\O %28Open-Closed%29\" />
   </ItemGroup>
 
 </Project>
