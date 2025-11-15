@@ -1,7 +1,56 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\WorkArea\\Solid\\solid-principles-dotnet\\solid-principles-dotnet\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83302788-3FDE-4EEF-A281-812722DFD31C}|solid-principles-dotnet\\solid-principles-dotnet.csproj|d:\\workarea\\solid\\solid-principles-dotnet\\solid-principles-dotnet\\solid-principles-dotnet\\solidprinciples\\s (single responsibility)\\singleresponsibilityprinciple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83302788-3FDE-4EEF-A281-812722DFD31C}|solid-principles-dotnet\\solid-principles-dotnet.csproj|solutionrelative:solid-principles-dotnet\\solidprinciples\\s (single responsibility)\\singleresponsibilityprinciple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83302788-3FDE-4EEF-A281-812722DFD31C}|solid-principles-dotnet\\solid-principles-dotnet.csproj|d:\\workarea\\solid\\solid-principles-dotnet\\solid-principles-dotnet\\solid-principles-dotnet\\application\\features\\contents\\commands\\createcontentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83302788-3FDE-4EEF-A281-812722DFD31C}|solid-principles-dotnet\\solid-principles-dotnet.csproj|solutionrelative:solid-principles-dotnet\\application\\features\\contents\\commands\\createcontentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83302788-3FDE-4EEF-A281-812722DFD31C}|solid-principles-dotnet\\solid-principles-dotnet.csproj|d:\\workarea\\solid\\solid-principles-dotnet\\solid-principles-dotnet\\solid-principles-dotnet\\application\\features\\contents\\commands\\validators\\createcontentcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83302788-3FDE-4EEF-A281-812722DFD31C}|solid-principles-dotnet\\solid-principles-dotnet.csproj|solutionrelative:solid-principles-dotnet\\application\\features\\contents\\commands\\validators\\createcontentcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83302788-3FDE-4EEF-A281-812722DFD31C}|solid-principles-dotnet\\solid-principles-dotnet.csproj|d:\\workarea\\solid\\solid-principles-dotnet\\solid-principles-dotnet\\solid-principles-dotnet\\application\\interfaces\\ivalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83302788-3FDE-4EEF-A281-812722DFD31C}|solid-principles-dotnet\\solid-principles-dotnet.csproj|solutionrelative:solid-principles-dotnet\\application\\interfaces\\ivalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83302788-3FDE-4EEF-A281-812722DFD31C}|solid-principles-dotnet\\solid-principles-dotnet.csproj|d:\\workarea\\solid\\solid-principles-dotnet\\solid-principles-dotnet\\solid-principles-dotnet\\domain\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83302788-3FDE-4EEF-A281-812722DFD31C}|solid-principles-dotnet\\solid-principles-dotnet.csproj|solutionrelative:solid-principles-dotnet\\domain\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83302788-3FDE-4EEF-A281-812722DFD31C}|solid-principles-dotnet\\solid-principles-dotnet.csproj|d:\\workarea\\solid\\solid-principles-dotnet\\solid-principles-dotnet\\solid-principles-dotnet\\domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83302788-3FDE-4EEF-A281-812722DFD31C}|solid-principles-dotnet\\solid-principles-dotnet.csproj|solutionrelative:solid-principles-dotnet\\domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83302788-3FDE-4EEF-A281-812722DFD31C}|solid-principles-dotnet\\solid-principles-dotnet.csproj|d:\\workarea\\solid\\solid-principles-dotnet\\solid-principles-dotnet\\solid-principles-dotnet\\domain\\entities\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83302788-3FDE-4EEF-A281-812722DFD31C}|solid-principles-dotnet\\solid-principles-dotnet.csproj|solutionrelative:solid-principles-dotnet\\domain\\entities\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83302788-3FDE-4EEF-A281-812722DFD31C}|solid-principles-dotnet\\solid-principles-dotnet.csproj|d:\\workarea\\solid\\solid-principles-dotnet\\solid-principles-dotnet\\solid-principles-dotnet\\application\\interfaces\\iattachmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83302788-3FDE-4EEF-A281-812722DFD31C}|solid-principles-dotnet\\solid-principles-dotnet.csproj|solutionrelative:solid-principles-dotnet\\application\\interfaces\\iattachmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83302788-3FDE-4EEF-A281-812722DFD31C}|solid-principles-dotnet\\solid-principles-dotnet.csproj|d:\\workarea\\solid\\solid-principles-dotnet\\solid-principles-dotnet\\solid-principles-dotnet\\application\\features\\attahcmens\\commands\\createattachmentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83302788-3FDE-4EEF-A281-812722DFD31C}|solid-principles-dotnet\\solid-principles-dotnet.csproj|solutionrelative:solid-principles-dotnet\\application\\features\\attahcmens\\commands\\createattachmentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83302788-3FDE-4EEF-A281-812722DFD31C}|solid-principles-dotnet\\solid-principles-dotnet.csproj|d:\\workarea\\solid\\solid-principles-dotnet\\solid-principles-dotnet\\solid-principles-dotnet\\application\\models\\iformfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83302788-3FDE-4EEF-A281-812722DFD31C}|solid-principles-dotnet\\solid-principles-dotnet.csproj|solutionrelative:solid-principles-dotnet\\application\\models\\iformfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83302788-3FDE-4EEF-A281-812722DFD31C}|solid-principles-dotnet\\solid-principles-dotnet.csproj|d:\\workarea\\solid\\solid-principles-dotnet\\solid-principles-dotnet\\solid-principles-dotnet\\application\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83302788-3FDE-4EEF-A281-812722DFD31C}|solid-principles-dotnet\\solid-principles-dotnet.csproj|solutionrelative:solid-principles-dotnet\\application\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83302788-3FDE-4EEF-A281-812722DFD31C}|solid-principles-dotnet\\solid-principles-dotnet.csproj|d:\\workarea\\solid\\solid-principles-dotnet\\solid-principles-dotnet\\solid-principles-dotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83302788-3FDE-4EEF-A281-812722DFD31C}|solid-principles-dotnet\\solid-principles-dotnet.csproj|solutionrelative:solid-principles-dotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -24,12 +73,160 @@
               "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IValidator.cs",
+              "DocumentMoniker": "D:\\WorkArea\\Solid\\solid-principles-dotnet\\solid-principles-dotnet\\solid-principles-dotnet\\Application\\Interfaces\\IValidator.cs",
+              "RelativeDocumentMoniker": "solid-principles-dotnet\\Application\\Interfaces\\IValidator.cs",
+              "ToolTip": "D:\\WorkArea\\Solid\\solid-principles-dotnet\\solid-principles-dotnet\\solid-principles-dotnet\\Application\\Interfaces\\IValidator.cs",
+              "RelativeToolTip": "solid-principles-dotnet\\Application\\Interfaces\\IValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T10:17:53.81Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SingleResponsibilityPrinciple.cs",
+              "DocumentMoniker": "D:\\WorkArea\\Solid\\solid-principles-dotnet\\solid-principles-dotnet\\solid-principles-dotnet\\SolidPrinciples\\S (Single Responsibility)\\SingleResponsibilityPrinciple.cs",
+              "RelativeDocumentMoniker": "solid-principles-dotnet\\SolidPrinciples\\S (Single Responsibility)\\SingleResponsibilityPrinciple.cs",
+              "ToolTip": "D:\\WorkArea\\Solid\\solid-principles-dotnet\\solid-principles-dotnet\\solid-principles-dotnet\\SolidPrinciples\\S (Single Responsibility)\\SingleResponsibilityPrinciple.cs",
+              "RelativeToolTip": "solid-principles-dotnet\\SolidPrinciples\\S (Single Responsibility)\\SingleResponsibilityPrinciple.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T10:13:54.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Attachment.cs",
+              "DocumentMoniker": "D:\\WorkArea\\Solid\\solid-principles-dotnet\\solid-principles-dotnet\\solid-principles-dotnet\\Domain\\Entities\\Attachment.cs",
+              "RelativeDocumentMoniker": "solid-principles-dotnet\\Domain\\Entities\\Attachment.cs",
+              "ToolTip": "D:\\WorkArea\\Solid\\solid-principles-dotnet\\solid-principles-dotnet\\solid-principles-dotnet\\Domain\\Entities\\Attachment.cs",
+              "RelativeToolTip": "solid-principles-dotnet\\Domain\\Entities\\Attachment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:44:58.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAttachmentRepository.cs",
+              "DocumentMoniker": "D:\\WorkArea\\Solid\\solid-principles-dotnet\\solid-principles-dotnet\\solid-principles-dotnet\\Application\\Interfaces\\IAttachmentRepository.cs",
+              "RelativeDocumentMoniker": "solid-principles-dotnet\\Application\\Interfaces\\IAttachmentRepository.cs",
+              "ToolTip": "D:\\WorkArea\\Solid\\solid-principles-dotnet\\solid-principles-dotnet\\solid-principles-dotnet\\Application\\Interfaces\\IAttachmentRepository.cs",
+              "RelativeToolTip": "solid-principles-dotnet\\Application\\Interfaces\\IAttachmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:43:34.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateAttachmentCommand.cs",
+              "DocumentMoniker": "D:\\WorkArea\\Solid\\solid-principles-dotnet\\solid-principles-dotnet\\solid-principles-dotnet\\Application\\Features\\Attahcmens\\Commands\\CreateAttachmentCommand.cs",
+              "RelativeDocumentMoniker": "solid-principles-dotnet\\Application\\Features\\Attahcmens\\Commands\\CreateAttachmentCommand.cs",
+              "ToolTip": "D:\\WorkArea\\Solid\\solid-principles-dotnet\\solid-principles-dotnet\\solid-principles-dotnet\\Application\\Features\\Attahcmens\\Commands\\CreateAttachmentCommand.cs",
+              "RelativeToolTip": "solid-principles-dotnet\\Application\\Features\\Attahcmens\\Commands\\CreateAttachmentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:41:23.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IFormFIle.cs",
+              "DocumentMoniker": "D:\\WorkArea\\Solid\\solid-principles-dotnet\\solid-principles-dotnet\\solid-principles-dotnet\\Application\\Models\\IFormFIle.cs",
+              "RelativeDocumentMoniker": "solid-principles-dotnet\\Application\\Models\\IFormFIle.cs",
+              "ToolTip": "D:\\WorkArea\\Solid\\solid-principles-dotnet\\solid-principles-dotnet\\solid-principles-dotnet\\Application\\Models\\IFormFIle.cs",
+              "RelativeToolTip": "solid-principles-dotnet\\Application\\Models\\IFormFIle.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwCwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:38:53.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\WorkArea\\Solid\\solid-principles-dotnet\\solid-principles-dotnet\\solid-principles-dotnet\\Domain\\Entities\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "solid-principles-dotnet\\Domain\\Entities\\Common\\BaseEntity.cs",
+              "ToolTip": "D:\\WorkArea\\Solid\\solid-principles-dotnet\\solid-principles-dotnet\\solid-principles-dotnet\\Domain\\Entities\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "solid-principles-dotnet\\Domain\\Entities\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:10:27.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\WorkArea\\Solid\\solid-principles-dotnet\\solid-principles-dotnet\\solid-principles-dotnet\\Domain\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "solid-principles-dotnet\\Domain\\Entities\\Book.cs",
+              "ToolTip": "D:\\WorkArea\\Solid\\solid-principles-dotnet\\solid-principles-dotnet\\solid-principles-dotnet\\Domain\\Entities\\Book.cs",
+              "RelativeToolTip": "solid-principles-dotnet\\Domain\\Entities\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:09:35.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateContentCommandValidator.cs",
+              "DocumentMoniker": "D:\\WorkArea\\Solid\\solid-principles-dotnet\\solid-principles-dotnet\\solid-principles-dotnet\\Application\\Features\\Contents\\Commands\\Validators\\CreateContentCommandValidator.cs",
+              "RelativeDocumentMoniker": "solid-principles-dotnet\\Application\\Features\\Contents\\Commands\\Validators\\CreateContentCommandValidator.cs",
+              "ToolTip": "D:\\WorkArea\\Solid\\solid-principles-dotnet\\solid-principles-dotnet\\solid-principles-dotnet\\Application\\Features\\Contents\\Commands\\Validators\\CreateContentCommandValidator.cs",
+              "RelativeToolTip": "solid-principles-dotnet\\Application\\Features\\Contents\\Commands\\Validators\\CreateContentCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:05:00.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "D:\\WorkArea\\Solid\\solid-principles-dotnet\\solid-principles-dotnet\\solid-principles-dotnet\\Application\\Interfaces\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "solid-principles-dotnet\\Application\\Interfaces\\IBookRepository.cs",
+              "ToolTip": "D:\\WorkArea\\Solid\\solid-principles-dotnet\\solid-principles-dotnet\\solid-principles-dotnet\\Application\\Interfaces\\IBookRepository.cs",
+              "RelativeToolTip": "solid-principles-dotnet\\Application\\Interfaces\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:04:29.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateContentCommand.cs",
+              "DocumentMoniker": "D:\\WorkArea\\Solid\\solid-principles-dotnet\\solid-principles-dotnet\\solid-principles-dotnet\\Application\\Features\\Contents\\Commands\\CreateContentCommand.cs",
+              "RelativeDocumentMoniker": "solid-principles-dotnet\\Application\\Features\\Contents\\Commands\\CreateContentCommand.cs",
+              "ToolTip": "D:\\WorkArea\\Solid\\solid-principles-dotnet\\solid-principles-dotnet\\solid-principles-dotnet\\Application\\Features\\Contents\\Commands\\CreateContentCommand.cs",
+              "RelativeToolTip": "solid-principles-dotnet\\Application\\Features\\Contents\\Commands\\CreateContentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:03:23.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WorkArea\\Solid\\solid-principles-dotnet\\solid-principles-dotnet\\solid-principles-dotnet\\Program.cs",
+              "RelativeDocumentMoniker": "solid-principles-dotnet\\Program.cs",
+              "ToolTip": "D:\\WorkArea\\Solid\\solid-principles-dotnet\\solid-principles-dotnet\\solid-principles-dotnet\\Program.cs",
+              "RelativeToolTip": "solid-principles-dotnet\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:01:53.137Z",
+              "EditorCaption": ""
             }
           ]
         }

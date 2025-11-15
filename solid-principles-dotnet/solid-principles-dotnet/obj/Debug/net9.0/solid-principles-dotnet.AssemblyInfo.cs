@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("solid-principles-dotnet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e45fa0a49e5aeb106e97e08e2468ed08dedc66bc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed18f4b5cc95611f460d4920f5d25468eff227ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("solid-principles-dotnet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("solid-principles-dotnet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

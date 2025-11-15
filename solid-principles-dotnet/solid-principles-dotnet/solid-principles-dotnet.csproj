@@ -1,6 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
+    <OutputType>Exe</OutputType>
     <TargetFramework>net9.0</TargetFramework>
     <RootNamespace>solid_principles_dotnet</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
@@ -8,10 +9,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="SolidPrinciples\D %28Dependency Inversion%29\" />
-    <Folder Include="SolidPrinciples\I %28Interface Segregation%29\" />
-    <Folder Include="SolidPrinciples\L %28Liskov-Substitution%29\" />
-    <Folder Include="SolidPrinciples\O %28Open-Closed%29\" />
+    <PackageReference Include="Ardalis.Result" Version="10.1.0" />
+    <PackageReference Include="Ardalis.Result.FluentValidation" Version="10.1.0" />
+    <PackageReference Include="AutoMapper" Version="15.1.0" />
+    <PackageReference Include="FluentValidation" Version="12.1.0" />
+    <PackageReference Include="MediatR" Version="13.1.0" />
   </ItemGroup>
 
 </Project>
